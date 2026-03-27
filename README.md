@@ -7,6 +7,10 @@ This project showcases how blockchain technology can be used to build tamper-pro
 
 ---
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Mar 27, 2026, 08_51_26 AM" src="https://github.com/user-attachments/assets/0f9838e2-ccc0-4c87-b460-72db822dd022" />
+
+
 ## ⚙️ What It Does
 - Creates prediction events using unique identifiers  
 - Allows users to vote on outcomes (Yes / No)  
